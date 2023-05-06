@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dhwanigupta22@gmail.com**
 
-- ⚡ Fun fact **I am easily board of Monotonous work.😁**
+- ⚡ Fun fact **I am easily bored of Monotonous work.😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
