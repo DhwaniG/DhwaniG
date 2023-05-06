@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhwani Gupta</h1>
 <h3 align="center">I started my Journey with graduation in civil engineering and then did post-graduation in PGDM PEM - NICMAR,PUNE. I have 2.9 years of work experience into constructing world as Sale strategist and SFDC Admin. Being a Non-Technical person in the field, I am eager to learn as much as I can. And then I want to share my knowledge and solve the issue with my knowledge.</h3>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15628402-Working-on-a-Project/attachments/7418795?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhwanig&label=Profile%20views&color=0e75b6&style=flat" alt="dhwanig" /> </p>
 
@@ -28,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhwanig&show_icons=true&locale=en" alt="dhwanig" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanig&" alt="dhwanig" /></p>
-
