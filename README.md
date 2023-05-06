@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Bank Management System**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Advance Python**
 
 - 💬 Ask me about **Statistics, SQL, Python, Data Analytics**
 
