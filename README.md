@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advance Python**
 
-- 💬 Ask me about **Statistics, SQL, Python, Data Analytics**
+- 💬 Ask me about **SQL, Python, Data Analytics**
 
 - 📫 How to reach me **dhwanigupta22@gmail.com**
 
