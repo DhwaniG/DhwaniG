@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Statistics, SQL, Python, Data Analytics**
 
-- 📫 How to reach me **dhwanigupta@gmail.com**
+- 📫 How to reach me **dhwanigupta22@gmail.com**
 
 - ⚡ Fun fact **I am easily board of Monotonous work.😁**
 
