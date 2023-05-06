@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFiIYPupX8/tc6DF88w3oOeXasDYCA_7Q/watch?utm_content=DAFiIYPupX8&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+![logo](https://github.com/DhwaniG/DhwaniG/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Dhwani Gupta</h1>
 <h3 align="center">I started my Journey with graduation in Civil Engineering and then did Post-Graduation in PGDM PEM - NICMAR,PUNE. I have 2.9 years of work experience into constructing world as Sale Strategist and SFDC Admin. Being a Non-Technical person in the field, I am eager to learn as much as I can. And then I want to share my knowledge and solve the issue with my knowledge.</h3>
 
